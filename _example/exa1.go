@@ -1,25 +1,3 @@
-# go-options
-go lib options
-
-
-## Install
-
-Install the package with:
-
-```
-go get github.com/mark0725/go-options
-```
-
-Import it with:
-
-```
-import "github.com/mark0725/ggo-options"
-```
-
-
-## Example
-
-```
 package main
 
 import (
@@ -56,8 +34,3 @@ func main() {
 
 	LibFnOptions(options.With("A", 1), options.With("B", "hello"))
 }
-```
-
-## License
-
-MIT
