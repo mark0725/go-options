@@ -13,7 +13,7 @@ go get github.com/mark0725/go-options
 Import it with:
 
 ```
-import "github.com/mark0725/ggo-options"
+import "github.com/mark0725/go-options"
 ```
 
 
