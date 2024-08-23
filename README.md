@@ -1,6 +1,6 @@
 # go-options
+[![Go Reference](https://pkg.go.dev/badge/github.com/mark0725/go-options.svg)](https://pkg.go.dev/github.com/mark0725/go-options)
 go lib options
-
 
 ## Install
 
